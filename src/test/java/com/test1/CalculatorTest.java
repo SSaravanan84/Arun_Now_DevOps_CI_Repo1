@@ -1,4 +1,4 @@
-package com.test;
+package com.test1;
 
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeMethod;
