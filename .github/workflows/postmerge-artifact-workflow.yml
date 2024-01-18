@@ -1,5 +1,5 @@
 # This workflow uses ServiceNow custom actions that are certified by ServiceNow.
-name: postmerge-artifact-workflow
+name: CI GitHub workflow
 on: 
   push:
    branches: [ "release-*" ]
