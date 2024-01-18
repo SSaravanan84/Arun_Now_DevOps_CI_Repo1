@@ -22,6 +22,7 @@ jobs:
         cache: maven
     - name: Build with Maven
       run: mvn clean compile
+      
 
   test:
     name: 'Test'
